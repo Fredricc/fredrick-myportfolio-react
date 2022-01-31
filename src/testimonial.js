@@ -10,12 +10,12 @@ const testimonials = [
     {
         name: "Richu Mimi",
         text:
-        "This guy is incredibly awesome, I hired him and when he delivered, I honestly fell in love with the project. He is indeed great skilled guy."
+        "Fredrick's project was the most efficient and user friendly. Therefore we gladly decided to use the project for our business"
     },
     {
         name: "Kenneth",
         text:
-        "This guy is incredibly awesome, I hired him and when he delivered, I honestly fell in love with the project. He is indeed great skilled guy."
+        "The project developed by Fredrick had all the features that we requested plus some other useful additional features that deployed as a bonus. As a result the project delivered was better than we expected"
     }
 ];
     return <>

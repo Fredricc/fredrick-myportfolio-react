@@ -22,13 +22,14 @@ export default function App(){
   useEffect(() =>{
     const typed = new Typed(el.current, {
       strings: ["Enthusiastic Dev 😎",
+      "Frontend Developer 📰",
       "Full Stack Developer 💻",
       "Data Analyst 📈 📊"
     ],
     startDelay:0,
-    typeSpeed: 100,
+    typeSpeed: 250,
     backSpeed: 20,
-    backDelay: 100,
+    backDelay: 200,
     smartBackspace:true,
     loop: true,
     showCursor: true,
@@ -110,8 +111,8 @@ export default function App(){
       <div className='d-flex flex-column'>
         <span className='about-me-text'data-aos="fade-right"
      data-aos-offset="300"
-     data-aos-easing="ease-in-sine"> About me </span>
-        <span className='why-text-sub' id="aboutme"> Why Choose me </span>
+     data-aos-easing="ease-in-sine" id="aboutme"> About me </span>
+        <span className='why-text-sub' > Why Choose me </span>
         <div className='row justify-content-center shadow-lg my-5' data-aos="zoom-in" data-aos-offset="200"
      data-aos-easing="ease-in-sine">
           <div className='col-lg-6 col-md-6 col-sm-12 d-flex align-items-center justify-content-center' >

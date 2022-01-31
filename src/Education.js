@@ -29,9 +29,9 @@ return (
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
             <div className="d-flex flex-column new-one">
-                <span className="university-name">Kenya School of Professional Studies{" "}
+                <span className="university-name">Pumwani Boys Secondary School{" "}
                 </span>
-                <span className="university-degree">Pumwani Boys Secondary School{" "}
+                <span className="university-degree">High school{" "}
                 </span>
             </div>{" "}
             <div>
