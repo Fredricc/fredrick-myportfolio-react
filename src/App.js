@@ -91,7 +91,7 @@ export default function App(){
               </span>
               <div className='d-flex flex-row justify-content-center mt-5 mb-5'>
                 <a href="#contactme" className='btn-hire-me'>Hire Me</a>
-                <a href='https://res.cloudinary.com/pundit-zone-limited/raw/upload/v1643360559/CV_f6mvl7.docx' 
+                <a href='https://res.cloudinary.com/pundit-zone-limited/raw/upload/v1643650337/CV_Fredrick_Njuguna_xk76gk.docx' 
                 className='btn-resume-me'  rel="noreferrer" target="_blank"> Get Resume</a>
               </div>
           </div>

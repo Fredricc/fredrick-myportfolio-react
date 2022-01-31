@@ -15,7 +15,7 @@ const testimonials = [
     {
         name: "Kenneth",
         text:
-        "The project developed by Fredrick had all the features that we requested plus some other useful additional features that deployed as a bonus. As a result the project delivered was better than we expected"
+        "The project developed by Fredrick had all the features that we requested plus some other useful additional features that were deployed as a bonus. As a result the project delivered was better than we expected"
     }
 ];
     return <>
