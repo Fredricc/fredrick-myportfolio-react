@@ -1,0 +1,28 @@
+.contact-me-card {
+    background: #03011d;
+    width: 70%;
+    /* box-shadow: 0px 5px 20px 4px rgb(253, 253, 255); */
+    height: auto;
+    margin-inline: auto;
+    border-radius: 20px;
+
+}
+.get-in-touch{
+    font-family: "ubuntu";
+    font-weight: 600;
+    font-size: 2rem;
+}
+.input-groups{
+    font-family: "ubuntu";
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.cord-contact-right{
+    background: rgb(1, 9, 68);
+    box-shadow: 10px 3px 33px 4px rgb(201, 201, 247);
+    border-radius: 20px;
+    width: 60%;
+    padding: 24px;
+
+}
