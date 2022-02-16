@@ -7,9 +7,9 @@ return (
     <div className="d-flex flex-column">
         <div className="education-one my-4 justify-content-between d-flex flex-row">
             <div className="d-flex flex-column new-one">
-                <a href="zen-pare-78c2d1" className="university-name">Image Sharer(Instagram) App{" "}
+                <a href="https://newstore-online.netlify.app/login" className="university-name">NewStore Online store{" "}
                 </a>
-                <span className="university-degree">MERN Stack React.js ,Node.js ,MongoDB{" "}
+                <span className="university-degree">Full Stack Ecommerce App With Firebase, React , Redux {" "}
                 </span>
             </div>{" "}
             <div>

@@ -133,7 +133,7 @@ export default function App(){
                 <ul>
                   <li>Full stack web and mobile development</li>
                   <li>Interactive Front end as per the design</li>
-                  <li>HTML, CSS, Bootstrap, Tailwind, Javascript, React.js, Node.js and JQuery.</li>
+                  <li>HTML, CSS, Bootstrap, Tailwind, Javascript, MERN, React.js, Node.js, Express, Firebase and JQuery.</li>
                   <li>Python, PHP, SQL, Django and Data Science</li>
                   <li>Wagtail, AWS, Docker, Github</li>
                 </ul>
