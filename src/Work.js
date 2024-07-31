@@ -35,6 +35,37 @@ return(
             </div>
             <div className="d-flex flex-column">
                 <div className= "d-flex flex-row justify-content-between">
+                <span className="company-name">Techno Brain Ltd</span>
+                <span className="year-passedout">2022-2024</span>
+                </div>
+            </div>
+            <div className="d-flex flex-column">
+                <span className="position">Software Testing and C# Software Development</span><br></br>
+                <span className="description-position"><p>
+                Motivated, Self driven, Willing to learn and explore more and new frameworks, highly accomplished professional.
+                </p>
+                    <ul>
+                        <li>Monitoring and analyzing user feedback from Microsoft feedback channels and external forums using Power BI dashboards and Azure DevOps dashboards to Visualize the reports and SQL queries or Kusto Query Language to filter, clean, sort and group the data to be analyzed. 
+                        </li>
+                        <li>❖	Writing clean and reusable and well documented, scalable code using .NET-programming languages mainly in C#, ASP.Net Core, WPF, MVC, Typescript, Razor and JavaScript.</li>
+                        <li>Master in Global supply chain system management and first African to become a Samsung Electronics Supply chain management coordinator for East and central Africa due to my background in Computer information science, I was able to master and work with Samsung’s Global supply management system (GSCM). Also professional trainer for GSCM system, Samsung Sales portal system, Global Samsung Business networking system and Samsung PVI system.</li>
+                        <li>Expertise in transforming organization culture, problem solving with positive results and providing outstanding consumer centric campaigns.
+                        </li>
+                        <li>Managing Mobile phones and sales collaboration and logistics between Samsung and Key distributors (Phonelink KE, Comestible UG, Makarim KE, Mitsumi KE, Redington KE, Safaricom, Krishna TZ, UAC DRC and NAFI DRC.</li>
+                        <li> Ranging new products, managing and assisting the distributors in E-commerce. This include introducing Samsung Electronics phone and accessories on Masoko.com, fonexpress.net, Jumia Kenya, Jumia Uganda, Safaricom and Samsungmakarim.co.ke</li>
+                        <li>Managing Sales budget, Sales support and critical path for campaigns, and ensuring campaigns are delivered on time and on budget.</li>
+                        <li>Relationship Management between Samsung and distributors.</li>
+                        <li> Develop the Marketing eco-system, update and brief on all relevant products launches Campaigns, Road shows, Consumer promotions, Key events.</li>
+                        <li>Implement the mobile strategy in country for both premium (flagship) & mass market.</li>
+                        <li>Evaluate effectiveness of marketing initiatives by measuring product ROI & contribution to market share.</li>
+                        <li>Actual sales vs. plan & order status</li>
+                        <li>Factors influencing on demand  forecasting (market, MKTG/PLC, PSI)</li>
+                        <li>Implement the mobile strategy in country for both premium (flagship) & mass market.</li>
+                    </ul>
+                </span>
+            </div>
+            <div className="d-flex flex-column">
+                <div className= "d-flex flex-row justify-content-between">
                 <span className="company-name">Samsung Electronic East Africa</span>
                 <span className="year-passedout">2013-2020</span>
                 </div>
