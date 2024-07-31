@@ -9,7 +9,7 @@ return (
             <div className="d-flex flex-column new-one">
                 <a href="https://newstore-online.netlify.app/login" className="university-name">NewStore Online store{" "}
                 </a>
-                <span className="university-degree">Full Stack Ecommerce App With Firebase, React , Redux {" "}
+                <span className="university-degree">Full Stack Ecommerce App With ASP.NET, Javascript , CSS {" "}
                 </span>
             </div>{" "}
             <div>
