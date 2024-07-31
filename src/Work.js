@@ -18,8 +18,8 @@ return(
                 Key responsibilities are developing a sales portal and company portfolio, Marketing Pundit Zone Ltd Products and creating websites and Web-based products for Pundit Zone LtdThis has been achieved through:
                 </p>
                     <ul>
-                        <li>The use of CSS, jQuery JS Framework, Tailwind and Bootstrap 5, I ensure that all digital applications developed are spontaneous, mobile first, responsive, easy to use, beautiful and are compatible with modern browsers such and Safari, Mozilla, Google Chrome, Microsoft Edge and Mobile browsers which render the final output.</li>
-                        <li>Ensuring the all web-based products are using CDN (Content Delivery Network) so that content loads faster and reduces the work done by the main server.</li>
+                        <li>The use of C#, ASP.NET MVC, ASP.NET Razor, ASP.NET Blazor, CSS, jQuery JS Framework, Tailwind and Bootstrap 5, I ensure that all digital applications developed are spontaneous, mobile first, responsive, easy to use, beautiful and are compatible with modern browsers such and Safari, Mozilla, Google Chrome, Microsoft Edge and Mobile browsers which render the final output.</li>
+                        <li>Ensuring the all web-based products are using the latest frameworks.</li>
                         <li>Ensuring that the company’s web-based products are up to date using the current LTS versions to ensure industry best practices, writing stylish, readable, understandable and reusable code for multiple devices and screen resolutions. Well-sliced & diced code</li>
                         <li> Building, maintaining and supporting all web-based products for Pundit Zone Ltd using VS Code and VS Code extensions, Code Pen
                         </li>
