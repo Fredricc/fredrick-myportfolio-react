@@ -7,7 +7,7 @@ return (
     <div className="d-flex flex-column">
         <div className="education-one my-4 justify-content-between d-flex flex-row">
             <div className="d-flex flex-column new-one">
-                <a href="https://newstore-online.netlify.app/login" className="university-name">Tafrija Online store{" "}
+                <a href="https://tafrija.azurewebsites.net/" className="university-name">Tafrija Online store{" "}
                 </a>
                 <span className="university-degree">Full Stack Ecommerce App With ASP.NET, Bootstrap, Javascript , CSS {" "}
                 </span>
@@ -25,6 +25,18 @@ return (
             </div>{" "}
             <div>
                 <span className="year-passedout">2024 </span>
+            </div>
+        </div>
+        <div className="d-flex flex-column">
+        <div className="education-one my-4 justify-content-between d-flex flex-row">
+            <div className="d-flex flex-column new-one">
+                <a href="https://newstore-online.netlify.app/login" className="university-name">Newstore Online store{" "}
+                </a>
+                <span className="university-degree">Full Stack Ecommerce App With ASP.NET, Bootstrap, Javascript , CSS {" "}
+                </span>
+            </div>{" "}
+            <div>
+                <span className="year-passedout">2023 </span>
             </div>
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
