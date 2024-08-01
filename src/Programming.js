@@ -3,19 +3,19 @@ import "./programming.css";
 export default function Programming(){
 const value = [
     {
+        text:"C#",
+        percentage: 80
+    },
+    {
+        text:"ASP.NET MVC",
+        percentage: 80
+    },
+    {
+        text:"ASP.NET Razor",
+        percentage: 80
+    },
+    {
         text:"Javascript",
-        percentage: 80
-    },
-    {
-        text:"React.js",
-        percentage: 80
-    },
-    {
-        text:"Node.js",
-        percentage: 80
-    },
-    {
-        text:"Django",
         percentage: 80
     },
     {
@@ -23,7 +23,7 @@ const value = [
         percentage: 80
     },
     {
-        text:"Python",
+        text:"ASP.NET Blazor",
         percentage: 80
     },
 ];
