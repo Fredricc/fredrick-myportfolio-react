@@ -3,7 +3,7 @@ import './testimonial.css';
 export default function Testimonials() {
 const testimonials = [
     {
-        name: "Wycliffe",
+        name: "Franklyne Andrew",
         text:
         "This guy is incredibly awesome, I hired him and when he delivered, I honestly fell in love with the project. He is indeed great skilled guy."
     },
