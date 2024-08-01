@@ -7,13 +7,24 @@ return (
     <div className="d-flex flex-column">
         <div className="education-one my-4 justify-content-between d-flex flex-row">
             <div className="d-flex flex-column new-one">
-                <a href="https://newstore-online.netlify.app/login" className="university-name">NewStore Online store{" "}
+                <a href="https://newstore-online.netlify.app/login" className="university-name">Tafrija Online store{" "}
                 </a>
-                <span className="university-degree">Full Stack Ecommerce App With ASP.NET, Javascript , CSS {" "}
+                <span className="university-degree">Full Stack Ecommerce App With ASP.NET, Bootstrap, Javascript , CSS {" "}
                 </span>
             </div>{" "}
             <div>
-                <span className="year-passedout">2021 </span>
+                <span className="year-passedout">2024 </span>
+            </div>
+        </div>
+        <div className="education-one my-4 justify-content-between d-flex flex-row">
+            <div className="d-flex flex-column new-one">
+                <a href="https://newstore-online.netlify.app/login" className="university-name">Motivational Quotes{" "}
+                </a>
+                <span className="university-degree">Motivational Quotes App With ASP.NET, Bootstrap , CSS {" "}
+                </span>
+            </div>{" "}
+            <div>
+                <span className="year-passedout">2024 </span>
             </div>
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
@@ -24,7 +35,7 @@ return (
                 </span>
             </div>{" "}
             <div>
-                <span className="year-passedout">2021</span>
+                <span className="year-passedout">2023</span>
             </div>
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
