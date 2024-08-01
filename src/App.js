@@ -87,7 +87,7 @@ export default function App(){
                 {/* Enthusiastic Dev 😎 */}
               </span>
               <span className='Im-text-subheading'>
-                knack of building application with front and backend operations
+                knack of building application with Fullstack operations
               </span>
               <div className='d-flex flex-row justify-content-center mt-5 mb-5'>
                 <a href="#contactme" className='btn-hire-me'>Hire Me</a>
@@ -124,18 +124,20 @@ export default function App(){
           </div>
           <div className='col-lg-6 col-md-6 col-sm-12 py-5 d-flex flex-column'>
             <span className='some-text-about-me'>
-              Full Stack web and mobile developer with background knowledge in MERN stack with redux, along with a knack of building applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.
+              Full Stack web and mobile developer with background knowledge in ASP.NET C#, along with a knack of building applications with utmost efficiency. Strong professional with a BSC willing to be an asset for an organization.
             </span>
 
             <span className="few-highlights">
               <span className='few-text'>Here are few highlights</span>
               <span className='few-list'>
                 <ul>
-                  <li>Full stack web and mobile development</li>
+                  <li>Full stack web application, Desktop software application and mobile app development</li>
                   <li>Interactive Front end as per the design</li>
-                  <li>HTML, CSS, Bootstrap, Tailwind, Javascript, MERN, React.js, Node.js, Express, Firebase and JQuery.</li>
-                  <li>Python, PHP, SQL, Django and Data Science</li>
-                  <li>Wagtail, AWS, Docker, Github</li>
+                  <li>HTML, CSS, Bootstrap, Tailwind, Javascript, ASP.NET(MVC, Razor, Blazor), and JQuery.</li>
+                  <li>C#, MySQL, SQLite and Data Science</li>
+                  <li> CICD, Azure, Google Cloud, AWS, Github, DevOps</li>
+                  <li> Kubernetes, Terraform, Docker, Jenkins</li>
+                  <li> Payment gateways such as Stripe, Safaricom Daraja Mpesa payment gateway</li>
                 </ul>
               </span>
             </span>
