@@ -137,6 +137,7 @@ export default function App(){
                   <li>C#, MySQL, SQLite and Data Science</li>
                   <li> CICD, Azure, Google Cloud, AWS, Github, DevOps</li>
                   <li> Kubernetes, Terraform, Docker, Jenkins</li>
+                  <li> Test Automation using Selenium or Playwright</li>
                   <li> Payment gateways such as Stripe, Safaricom Daraja Mpesa payment gateway</li>
                 </ul>
               </span>
