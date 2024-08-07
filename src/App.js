@@ -98,7 +98,7 @@ export default function App(){
         </div>
         <div className="col-lg-6 col-md-6 col-sm-12">
           <div className='d-flex justify-content-center custom-div-outer-img'>
-            <img className='img-fluid custom-img' alt="heroimage" src="https://res.cloudinary.com/pundit-zone-limited/image/upload/v1643439330/portfolio_image_wmp8ip.png" 
+            <img className='img-fluid custom-img' alt="heroimage" src="https://res.cloudinary.com/pundit-zone-limited/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1723045491/Passport_Photo_Fredrick_Njuguna_o2gfhr.jpg" 
             data-aos="flip-right"
             data-aos-easing="linear"
             data-aos-duration="1500"
