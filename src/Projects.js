@@ -18,7 +18,7 @@ return (
         </div>
         <div className="education-one my-4 justify-content-between d-flex flex-row">
             <div className="d-flex flex-column new-one">
-                <a href="https://newstore-online.netlify.app/login" className="university-name">Motivational Quotes{" "}
+                <a href="https://motivationquotes.punditzone.co.ke/" className="university-name">Motivational Quotes{" "}
                 </a>
                 <span className="university-degree">Motivational Quotes App With ASP.NET, Bootstrap , CSS {" "}
                 </span>
